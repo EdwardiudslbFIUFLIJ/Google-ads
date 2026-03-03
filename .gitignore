@@ -1,0 +1,22 @@
+# Credentials - NEVER commit these
+*.key
+*.pem
+credentials.json
+token.json
+.env
+
+# Data exports (can get large)
+*.csv
+*.xlsx
+!templates/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+
+# Temp files
+*.tmp
+*.log

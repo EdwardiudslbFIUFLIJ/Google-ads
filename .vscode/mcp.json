@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "google-ads": {
+      "type": "sse",
+      "url": "https://mcp.gaql.app/sse/google-ads/ZW1haWwtbG9naW46UlVkR1F4aytYa1pTZVN3dVJCa2dVRHBIUHlZemNpSXpQakVmT2lBUVpsa2tYR2tWQ1R0WENTNUpQQjAyQWhJWFczTUNObHNwSTMwSE1Db0NTUjRkYkM1RURUY0RZd1JUQVJNT0xnZ1NOejgvUlVVQ0Z4Uk1QeG92WmhkY0FERWZWM0lnQVJWR0VnPT0="
+    }
+  }
+}
